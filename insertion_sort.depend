@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1359684107 source:c:\users\able valued client\desktop\insertion_sort\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<string>
+	<sstream>
+	<fstream>
+
+1359684106 source:c:\users\daniel\desktop\insertion_sort\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<string>
+	<sstream>
+	<fstream>
+
